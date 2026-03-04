@@ -395,7 +395,7 @@ footer {
 <div class="about-section">
 <h1>History of Manchester United</h1>
 <p>Manchester United, założony w 1878 roku, to jeden z najbardziej utytułowanych klubów na świecie. Z legendarnymi menedżerami i gwiazdami, klub zdobywał mistrzostwa Anglii, Puchary i triumfy w Lidze Mistrzów, tworząc historię pełną niezapomnianych zwycięstw i emocji. Klub od zawsze jest symbolem pasji, determinacji i ducha drużynowego, który inspiruje miliony kibiców na całym świecie.</p>
-<div style="height:20px;"></div>
+<div style="height:10px;"></div>
 <div class="about-img-container">
     <div class="about-img-wrapper"><img src="https://m.media-amazon.com/images/I/81JXTGEyp6L.jpg" alt="Messi"></div>
 </div>
@@ -513,7 +513,7 @@ Busby opuścił stanowisko menedżera w 1969 roku jako człowiek spełniony. Zos
 <div class="about-img-container">
 <div class="about-img-wrapper">
 <img src="https://i.imgur.com/kfO73mf.jpeg" alt="Messi"></div>
-<div style="margin-top: -15px; text-align: center;">Skład United po zwycięstwie Ligi Mistrzów. ok. lipiec 1968</div>
+<footer>Skład United po zwycięstwie Ligi Mistrzów. ok. lipiec 1968</footer>
 </div>
 </div>
 </div>
