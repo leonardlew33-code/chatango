@@ -409,10 +409,13 @@ footer {
 <h1>Kolejowe początki (1878–1892)</h1>
 <p>Wszystko zaczęło się w sercu <a href="https://justpaste.it/redirect/e97vh/https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FRewolucja_przemys%C5%82owa" target="_blank">rewolucji przemysłowej</a>. W 1878 roku pracownicy departamentu wagonów i lokomotyw kolei <a href="https://justpaste.it/redirect/e97vh/https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLancashire_and_Yorkshire_Railway"target="_blank">Lancashire and Yorkshire Railway</a> założyli zespół <b>Newton Heath LYR FC</b>. Ich pierwsze boisko przy <a href="https://justpaste.it/redirect/e97vh/https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FNorth%20Road" target="_blank">North Road</a> było dalekie od dzisiejszych standardów – zawodnicy musieli zmagać się z gęstym dymem z pobliskich fabryk i nawierzchnią, która po deszczu przypominała bagnisko.
 W tym czasie klub nie przypominał dzisiejszych "Czerwonych Diabłów". Piłkarze występowali w barwach zielono-złotych, a ich głównym celem była rywalizacja z innymi zakładami pracy. Dopiero w 1885 roku klub przeszedł na zawodowstwo, a w 1892 roku, po odcięciu członu "LYR" i uniezależnieniu się od kolei, zyskał status członka założyciela nowej<a href="https://justpaste.it/redirect/e97vh/https%3A%2F%2Fpl.wikipedia.org%2Fwiki%2FFootball_League_First_Division" target="_blank"> Pierwszej Dywizji</a>.</p>
-<div style="height:-20px;"></div>
+<div style="height:20px;"></div>
 <div class="about-img-container">
-<div class="about-img-wrapper"><img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Newton_Heath_1892-93.jpg" alt="Messi"></div>
-<p align="center">Skład klubowy, ok. 1892r</p>
+<div class="about-img-wrapper">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Newton_Heath_1892-93.jpg" alt="Messi">
+</div>
+</div>
+<footer>Skład klubowy, ok. 1892r</footer>
 </div>
 </div>
 </div>
@@ -424,6 +427,7 @@ W tym czasie klub nie przypominał dzisiejszych "Czerwonych Diabłów". Piłkarz
 <p>Sportowy debiut w elicie okazał się jednak bolesny. Po dwóch sezonach walki na dnie tabeli, w 1894 roku doszło do kluczowego meczu barażowego o utrzymanie z <a href="https://pl.wikipedia.org/wiki/Liverpool_F.C." target="_blank">Liverpool FC</a>. Porażka 0:2 nie tylko zepchnęła klub do <a href="https://pl.wikipedia.org/wiki/Football_League_Second_Division" target="_blank">Drugiej Dywizji</a> na kolejne osiem lat, ale stała się oficjalnym początkiem trwającej do dziś <a href="https://en.wikipedia.org/wiki/Liverpool_F.C.–Manchester_United_F.C._rivalry" target="_blank">rywalizacji obu miast</a>. Pobyt na zapleczu był dla Newton Heath okresem wegetacji – mimo kilku szans na awans, zespół seryjnie zawodził w decydujących momentach, co doprowadziło do drastycznego spadku zainteresowania kibiców i katastrofy finansowej.
 U progu nowego stulecia, w 1901 roku, sytuacja stała się beznadziejna. Klub tonął w długach przekraczających 2600 funtów, co doprowadziło do wydania sądowego <b>nakazu likwidacji</b> i zamknięcia stadionu przez komornika. Wtedy wydarzył się najsłynniejszy zwrot akcji w historii sportu: kapitan drużyny <a href="https://pl.wikipedia.org/wiki/Harry_Stafford" target="_blank">Harry Stafford</a>, zbierając fundusze na ratunek klubu, zgubił swojego psa – bernardyna o imieniu Major. Czworonoga odnalazł zamożny piwowar <a href="https://en.wikipedia.org/wiki/John_Henry_Davies" target="_blank">John Henry Davies</a>, który po rozmowie ze Staffordem zdecydował się spłacić długi i zainwestować w upadający zespół.
 Davies postawił jednak twardy warunek: całkowite zerwanie z dotychczasową, robotniczą tożsamością. 24 kwietnia 1902 roku oficjalnie zarejestrowano nazwę <b>Manchester United Football Club</b>, porzucono zielono-złote barwy na rzecz czerwieni i bieli</p>
+<div style="height:20px;"></div>
 <div class="about-img-container">
 <div class="about-img-wrapper portrait">
     <img src="https://i.imgur.com/y3KQLMT.png" alt="Portret">
