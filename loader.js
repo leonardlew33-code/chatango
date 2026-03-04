@@ -395,7 +395,6 @@ footer {
 <div class="about-section">
 <h1>History of Manchester United</h1>
 <p>Manchester United, założony w 1878 roku, to jeden z najbardziej utytułowanych klubów na świecie. Z legendarnymi menedżerami i gwiazdami, klub zdobywał mistrzostwa Anglii, Puchary i triumfy w Lidze Mistrzów, tworząc historię pełną niezapomnianych zwycięstw i emocji. Klub od zawsze jest symbolem pasji, determinacji i ducha drużynowego, który inspiruje miliony kibiców na całym świecie.</p>
-<div style="height:10px;"></div>
 <div class="about-img-container">
     <div class="about-img-wrapper"><img src="https://m.media-amazon.com/images/I/81JXTGEyp6L.jpg" alt="Messi"></div>
 </div>
@@ -448,7 +447,9 @@ W 1910 roku otwarto <a href="https://pl.wikipedia.org/wiki/Old_Trafford" target=
 Bez swojego lidera i ze starzejącym się składem (m.in. 37-letnim Meredithem), United osunęli się na odległe 13. miejsce w tabeli. Odejście Mangnalla w 1912 roku symbolicznie zamknęło dekadę wielkich sukcesów, wprowadzając klub w wieloletni okres stagnacji i kryzysu, który trwał aż do zakończenia <a href="https://pl.wikipedia.org/wiki/II_wojna_światowa" target="_blank">II wojny światowej</a>.
 </p><div class="about-img-container">
 <div class="about-img-wrapper">
-<img src="https://i.imgur.com/CltpkTZ.jpeg" alt="Messi"></div>
+    <img src="https://i.imgur.com/CltpkTZ.jpeg" alt="Messi">
+</div>
+</div>
 <footer>Skład United po zwycięstwie ligowym. ok. 1911</footer>
 </div>
 </div>
@@ -463,7 +464,9 @@ Bez swojego lidera i ze starzejącym się składem (m.in. 37-letnim Meredithem),
 Ostateczny cios przyszedł z nieba podczas <a href="https://pl.wikipedia.org/wiki/II_wojna_światowa">II wojny światowej</a>. W marcu 1941 roku niemieckie siły lotnicze <a href="https://en.wikipedia.org/wiki/Luftwaffe" target="_blank">Luftwaffe</a>, <a href="https://en.wikipedia.org/wiki/Manchester_Blitz#Further_raids" target="_blank">zbombardowało Old Trafford</a>, zamieniając główną trybunę i biura w ruinę. Klub został „bezdomny” i do końca wojny musiał płacić czynsz Manchesterowi City, by móc grać na ich stadionie <a href="https://en.wikipedia.org/wiki/Maine_Road" target="_blank">Maine Road</a>.</p>
 <div class="about-img-container">
 <div class="about-img-wrapper">
-<img src="https://i.imgur.com/2etePhR.png" alt="Messi"></div>
+    <img src="https://i.imgur.com/2etePhR.png" alt="Messi">
+</div>
+</div>
 <footer>Zbombardowany stadion Old Trafford. ok. 1941</footer>
 </div>
 </div>
@@ -480,7 +483,9 @@ Prawdziwa rewolucja nastąpiła jednak na początku lat 50., kiedy Busby, wspól
 Apogeum możliwości tej legendarnej generacji przypadło na styczeń 1958 roku. Manchester United prezentował wówczas futbol, który był synonimem nowoczesności, łącząc młodzieńczą pewność siebie z niezwykłą skutecznością pod bramką przeciwnika. Zespół pewnie zmierzał po trzeci z rzędu tytuł mistrzowski i budził respekt na całym kontynencie, pewnie awansując do kolejnych faz europejskich pucharów. Symbolem tamtego okresu stał się styczeń 1958 roku, zwieńczony legendarnym meczem przeciwko Arsenalowi na Highbury. Wygrana 5:4 była pokazem niespożytej energii i ofensywnego geniuszu, potwierdzając, że drużyna Busby'ego stała się w tamtym momencie najdoskonalszą maszyną piłkarską w historii brytyjskiego futbolu.
 <div class="about-img-container">
 <div class="about-img-wrapper">
-<img src="https://i.imgur.com/LZbAA7C.jpeg" alt="Messi"></div>
+    <img src="https://i.imgur.com/LZbAA7C.jpeg" alt="Messi">
+</div>
+</div>
 <footer>Skład Manchesteru United. "Dzieci Busby'ego" ok. kwiecień 1957.</footer>
 </div>
 </div>
@@ -496,7 +501,9 @@ Bilans katastrofy był porażający: śmierć poniosło 23 pasażerów, w tym o�
 Choć asystent <a href="https://pl.wikipedia.org/wiki/Jimmy_Murphy" target="_blank">Jimmy Murphy</a> dokonał niemożliwego, łatając skład juniorami i rezerwowymi, by dokończyć sezon, trauma monachijska na zawsze zmieniła DNA klubu.</p>
 <div class="about-img-container">
 <div class="about-img-wrapper">
-<img src="https://i.imgur.com/5J7bE22.jpeg" alt="Messi"></div>
+    <img src="https://i.imgur.com/5J7bE22.jpeg" alt="Messi">
+</div>
+</div>
 <footer>Zbity samolot w którym znajdował się skład Manchesteru United. ok. 6 luty 1958</footer>
 </div>
 </div>
@@ -512,7 +519,9 @@ Kulminacja tej bolesnej i pięknej podróży nastąpiła 29 maja 1968 roku na st
 Busby opuścił stanowisko menedżera w 1969 roku jako człowiek spełniony. Zostawił klub nie tylko jako potęgę piłkarską, ale jako globalny symbol niezłomności ludzkiego ducha. Choć jego era dobiegła końca, DNA Manchesteru United zostało na zawsze splecione z historią o bolesnym upadku i najbardziej spektakularnym powrocie w dziejach nowoczesnego sportu.</p>
 <div class="about-img-container">
 <div class="about-img-wrapper">
-<img src="https://i.imgur.com/kfO73mf.jpeg" alt="Messi"></div>
+    <img src="https://i.imgur.com/kfO73mf.jpeg" alt="Messi">
+</div>
+</div>
 <footer>Skład United po zwycięstwie Ligi Mistrzów. ok. lipiec 1968</footer>
 </div>
 </div>
