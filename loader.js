@@ -356,8 +356,6 @@ footer {
   <a href="https://antymadridista.chatango.com" target="_blank">AntyMadridista</a>
 </h3>
 
-<iframe src="https://dlstreams.top/stream/stream-983.php" width="100%" height="100%" style="border:0;" allowfullscreen></iframe>
-<footer>Canal+ Extra 1 gratis nwm dlaczego :)</footer
 
 </div>
  
