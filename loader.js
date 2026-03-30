@@ -42,7 +42,7 @@ window.addEventListener('load', () => {
 body {
     margin: 0 !important;
     padding: 0 !important;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Verdana', sans-serif;
     cursor: url('https://i.imgur.com/bv3mL7T.png'), auto; /* custom cursor */
     color: #fff;
     box-sizing: border-box;
@@ -342,7 +342,7 @@ footer {
 <img src="https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg">
 </header>
 <h1><b>❤️ 𝔊𝔩𝔬𝔯𝔶 𝔊𝔩𝔬𝔯𝔶 𝔐𝔞𝔫 𝔘𝔫𝔦𝔱𝔢𝔡 ❤️</b></h1>
-<h2><b><i>🖤 UP THE RED DEVILS 🖤</i></b></h2>
+<h2><b>🖤<i> UP THE RED DEVILS </i>🖤</b></h2>
 <div style="height: 25px;"></div>
  
 <div class="skład">
