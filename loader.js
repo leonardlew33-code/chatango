@@ -42,7 +42,7 @@ window.addEventListener('load', () => {
 body {
     margin: 0 !important;
     padding: 0 !important;
-    font-family: 'Verdana', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     cursor: url('https://i.imgur.com/bv3mL7T.png'), auto; /* custom cursor */
     color: #fff;
     box-sizing: border-box;
