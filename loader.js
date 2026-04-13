@@ -606,7 +606,7 @@ W 91. minucie, po rzucie rożnym bitym przez <a href="https://pl.wikipedia.org/w
     <img src="https://i.imgur.com/g8m8Qio.jpeg" alt="Messi">
 </div>
 </div>
-
+<footer>Ferguson z składem triumfuje zwycięstwo Ligi Mistrzów. (26 maj 1999)</footer>
 </div>
 </div>
 </div>
