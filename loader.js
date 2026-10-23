@@ -356,8 +356,6 @@ footer {
   <a href="https://antymadridista.chatango.com" target="_blank">AntyMadridista</a>
 </h3>
 
-<iframe src="/web/20160308112148if_/http://vod.tvp.pl/sess/tvplayer.php?object_id=24022626&amp;autoplay=true" frameborder="0" scrolling="no" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowFullScreen" style="margin:0px; padding:0px" data-ruffle-polyfilled=""></iframe>
-
 </div>
  
  
